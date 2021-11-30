@@ -2,7 +2,7 @@
 
 # The Webpack setup exercise
 
-> This is a BAR IN MOTION website project created as per the  Cindy Shin website design in Behance. The website project is in regard to an event and the website communicates important details about the event and more about the host of the event. (BAR IN MOTION INC.)
+> This is a webpack setup exercise to familiarize myself with webpack tool for future usage in projects.
 
 ## Project screenshot
 
@@ -16,9 +16,9 @@ Additional description about the project and its features.
 - Webpack
 
 ## How to Setup
-> You can simply clone or download [this repository](https://github.com/Mosams/Module-One-Capstone-Project.git), and use your favorite browser or code editor to run this program.
+> You can simply clone or download [this repository](https://github.com/Mosams/webpack-setup.git), and use your favorite browser or code editor to run this program.
 
-- To open the project after download, simply double click the index.html file
+- To open the project after download, simply double click the index.html file in the dist folder of the project.
 
 - To open this project using vs code ( for this example) or your favorite code editor, you can follow the guide below:
 > in your cmd or command line navigate to where this project is located, then;
@@ -47,7 +47,3 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-- Design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
-- Icons from [Iconscout](https://iconscout.com). 
